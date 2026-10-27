@@ -64,5 +64,23 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-GatewayAPI is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://gatewayapi.com/
+GatewayAPI provides a global messaging API platform offering SMS, RCS, and email services. It enables developers to send messages worldwide with advanced security, compliance, and EU data sovereignty options. The platform includes virtual numbers, shortcodes, keyword handling, number lookup, and detailed analytics, supporting multiple programming languages and integrations.
+
+**Areas:** Company · Messaging · SMS · API · Communications
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://gatewayapi.com/)
+- [Documentation](https://gatewayapi.com/docs/)
+- [Pricing](https://gatewayapi.com/pricing/)
+- [Sign up](https://gatewayapi.com/sign-up/)
+- [Support](https://gatewayapi.com/help-center/introduction/)
+- [Blog](https://gatewayapi.com/blog/)
+
+**APIs profiled:** 2
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/gatewayapi/](https://apis.io/providers/gatewayapi/).
